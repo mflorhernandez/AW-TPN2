@@ -1,7 +1,7 @@
-/* Fondo y fuente */
+
 body {
-    background-color: #f8e3f1; /* Fondo en un lila claro */
-    font-family: 'Poppins', sans-serif; /* Fuente juvenil */
+    background-color: #f8e3f1; 
+    font-family: 'Poppins', sans-serif; 
     color: #333;
     
 }
@@ -11,7 +11,7 @@ body {
 }
 /* Barra de navegación */
 .navbar {
-    background-color: #7b1fa2; /* Púrpura oscuro */
+    background-color: #7b1fa2; 
 }
 
 .navbar .btn {
@@ -26,20 +26,20 @@ body {
 }
 
 .btn-login {
-    background-color: #4caf50; /* Verde */
-    border-color: #4caf50; /* Verde */
+    background-color: #4caf50; 
+    border-color: #4caf50; 
     color: #fff;
 }
 
 .btn-logout {
-    background-color: #f44336; /* Rojo */
-    border-color: #f44336; /* Rojo */
+    background-color: #f44336; 
+    border-color: #f44336; 
     color: #fff;
 }
 
-/* Estilos del contenido colapsable */
+
 .bg-dark {
-    background-color: #7b1fa2 !important; /* Fondo púrpura para secciones colapsables */
+    background-color: #7b1fa2 !important; 
 }
 
 /* Centrando el logo */
@@ -52,17 +52,17 @@ body {
 
 /* Fondo para el cuerpo */
 .fondoBody {
-    background-color: #f8e3f1; /* Fondo lila claro */
+    background-color: #f8e3f1; 
     padding: 50px 0;
 }
 
 /* Encabezado */
 h1 {
-    color: #6a1b9a; /* Título en púrpura */
+    color: #6a1b9a; 
     font-size: 36px;
 }
 
-/* Cambiando la fuente del párrafo */
+
 p {
     color: #555;
     font-size: 18px;
@@ -80,13 +80,13 @@ ul li a {
 }
 
 ul li a:hover {
-    color: #ff69b4; /* Hover en rosado claro */
+    color: #ff69b4; 
 }
 
 .card {
-    border: 1px solid #ccc; /* Borde gris */
-    border-radius: 10px; /* Bordes redondeados */
-    margin-bottom: 20px; /* Espaciado entre tarjetas */
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    margin-bottom: 20px; 
 }
 .card-img-top {
     width: 100%; 
@@ -96,6 +96,6 @@ ul li a:hover {
 
 .centradoBoton{
     display: flex;
-    justify-content: space-between; /* Espacio entre elementos */
+    justify-content: space-between; 
     align-items: center; 
 }
